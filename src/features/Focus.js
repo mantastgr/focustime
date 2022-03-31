@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
 
   inputContainer: {
     padding: spacing.lg,
-    justifyContent: 'top',
+    alignItems: 'center',
     flexDirection: 'row',
   },
 });
